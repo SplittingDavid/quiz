@@ -1,0 +1,95 @@
+body{
+text-align: center;
+}
+/* hides all questions and results by default*/
+#question1, #question2, #question3, #question4, #question5, #results {
+  display:none;
+  width:750px;
+}
+
+#quizarea
+{
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-height:800px;
+  max-width:800px;
+  background-color: #ccc;
+  border-radius: 3px;
+}
+div#intro
+{
+    background-image: url("xboxplaystation.jpg");
+    background-color: white;
+    height: 500px; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+}
+
+div#question1
+{
+    background-image: url("xboxplaystation.jpg");
+    background-color: white;
+    height: 500px; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+}
+div#question2
+{
+    background-image: url("xboxplaystation.jpg");
+    background-color: white;
+    height: 500px; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+
+}
+div#question3
+{
+    background-image: url("xboxplaystation.jpg");
+    background-color: white;
+    height: 500px; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+
+}
+
+div#question4
+{
+    background-image: url("xboxplaystation.jpg");
+    background-color: white;
+    height: 500px; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+
+}
+div#question5
+{
+    background-image: url("xboxplaystation.jpg");
+    background-color: white;
+    height: 500px; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+
+}
+
+
+
+div#results
+{
+    background-image: url("xboxplaystation.jpg");
+    background-color: white;
+    height: 500px; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+
+}
